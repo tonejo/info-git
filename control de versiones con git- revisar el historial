@@ -17,3 +17,6 @@ Bitacoras de revisiones del proyecto:
 Los logs muestran las bitacoras de la rama actual (del proyecto actual)
 
 Existe un boton History el cual nos muestra los cambios realizados en el proyecto, este es util para pode regresar a un versión anterior.
+
+Existe visulamente en el navegador la herramienta Graphs la cuel muestra:
+los commits realizados, las contribuciones y en Network se aprecian los cambios, esto es muy util.

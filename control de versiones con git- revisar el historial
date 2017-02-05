@@ -5,3 +5,8 @@ Alumno: Carmelo Guzmán
 GIT: Es un sistema que nos permite controlar las versiones de documentos.
 Este sistema nos puede ser muy util para poder recuperar documento viejos y los cuales nos pueden ayudar a recuperar cambios importante
 El historial se puede ir analisando al revisarl las entradas en la bitacora del repositorio.
+
+
+Al guardar los cambios en el repositorio se genera una entrada en la bitacora del repositorio:
+Nombre del comando para mostrar los logs:
+git log

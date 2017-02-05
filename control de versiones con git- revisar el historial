@@ -10,3 +10,5 @@ El historial se puede ir analisando al revisarl las entradas en la bitacora del 
 Al guardar los cambios en el repositorio se genera una entrada en la bitacora del repositorio:
 Nombre del comando para mostrar los logs:
 git log
+Otro comando util para ir viendo el estado de los cambios puede ser el comando:
+git status

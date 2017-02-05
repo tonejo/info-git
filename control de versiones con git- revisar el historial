@@ -12,3 +12,7 @@ Nombre del comando para mostrar los logs:
 git log
 Otro comando util para ir viendo el estado de los cambios puede ser el comando:
 git status
+
+Bitacoras de revisiones del proyecto:
+Los logs muestran las bitacoras de la rama actual (del proyecto actual)
+

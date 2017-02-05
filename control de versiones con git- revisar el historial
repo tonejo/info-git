@@ -16,3 +16,4 @@ git status
 Bitacoras de revisiones del proyecto:
 Los logs muestran las bitacoras de la rama actual (del proyecto actual)
 
+Existe un boton History el cual nos muestra los cambios realizados en el proyecto, este es util para pode regresar a un versión anterior.
